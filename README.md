@@ -1,3 +1,8 @@
+## Description
+This app, can be used as a personal notes app. The reason behind making this project in the first place to get an understanding about React and hooks. Source: https://github.com/developedbyed/vanilla-todo
+
+[image](https://github.com/Marvel-Jacob/ReactTodo/blob/master/Capture.PNG) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
